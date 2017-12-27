@@ -1,0 +1,203 @@
+name: F:\Anaconda3\envs\tensorflow-gpu
+channels:
+- glemaitre
+- anaconda
+- conda-forge
+- anaconda-fusion
+- defaults
+dependencies:
+- boto=2.47.0=py35_0
+- bz2file=0.98=py35_0
+- gensim=2.3.0=np112py35_0
+- nltk=3.2.4=py35_0
+- smart_open=1.5.3=py35_0
+- cassandra-driver=3.9.0=py35_0
+- cymem=1.31.2=py35_vc14_0
+- cytoolz=0.8.2=py35_0
+- dill=0.2.6=py35_0
+- ftfy=4.4.2=py35_0
+- murmurhash=0.26.4=py35_vc14_0
+- preshed=1.0.0=py35_vc14_0
+- pyreadline=2.1=py35_0
+- regex=2017.06.23=py35_0
+- spacy=1.9.0=np112py35_vc14_0
+- termcolor=1.1.0=py35_1
+- textblob=0.12.0=py35_0
+- thinc=6.5.2=np112py35_vc14_0
+- toolz=0.8.2=py35_0
+- tqdm=4.15.0=py35_0
+- wordcloud=1.2.1=py35_0
+- alabaster=0.7.10=py35_0
+- asn1crypto=0.22.0=py35_0
+- astroid=1.4.9=py35_0
+- attrs=15.2.0=py35_0
+- automat=0.5.0=py35_0
+- babel=2.4.0=py35_0
+- beautifulsoup4=4.6.0=py35_0
+- bleach=1.5.0=py35_0
+- bzip2=1.0.6=vc14_3
+- cffi=1.10.0=py35_0
+- chardet=3.0.4=py35_0
+- colorama=0.3.7=py35_0
+- constantly=15.1.0=py35_0
+- cryptography=1.8.1=py35_0
+- cssselect=1.0.1=py35_0
+- cycler=0.10.0=py35_0
+- decorator=4.0.11=py35_0
+- docutils=0.13.1=py35_0
+- entrypoints=0.2.2=py35_1
+- freetype=2.5.5=vc14_2
+- html5lib=0.999=py35_0
+- hyperlink=17.1.1=py35_0
+- icu=57.1=vc14_0
+- idna=2.5=py35_0
+- imagesize=0.7.1=py35_0
+- incremental=16.10.1=py35_0
+- inflection=0.3.1=py35_0
+- ipykernel=4.6.1=py35_0
+- ipython=6.0.0=py35_0
+- ipython_genutils=0.2.0=py35_0
+- isort=4.2.15=py35_0
+- jedi=0.10.2=py35_2
+- jinja2=2.9.6=py35_0
+- jpeg=9b=vc14_0
+- jsonschema=2.6.0=py35_0
+- jupyter_client=5.0.1=py35_0
+- jupyter_core=4.3.0=py35_0
+- lazy-object-proxy=1.3.1=py35_0
+- libpng=1.6.27=vc14_0
+- libtiff=4.0.6=vc14_3
+- libxgboost=0.60=h1133f5d_0
+- lxml=3.8.0=py35_0
+- m2w64-gcc-libgfortran=5.3.0=6
+- m2w64-gcc-libs=5.3.0=7
+- m2w64-gcc-libs-core=5.3.0=7
+- m2w64-gmp=6.1.0=2
+- m2w64-libwinpthread-git=5.0.0.4634.697f757=2
+- markupsafe=0.23=py35_2
+- matplotlib=2.0.0=np112py35_0
+- mistune=0.7.4=py35_0
+- mkl=2017.0.1=0
+- more-itertools=3.2.0=py35_0
+- msys2-conda-epoch=20160418=1
+- nbconvert=5.1.1=py35_0
+- nbformat=4.3.0=py35_0
+- notebook=5.0.0=py35_0
+- numpy=1.12.1=py35_0
+- numpydoc=0.6.0=py35_0
+- olefile=0.44=py35_0
+- openssl=1.0.2k=vc14_0
+- packaging=16.8=py35_0
+- pandas=0.19.2=np112py35_1
+- pandas-datareader=0.5.0=py35_0
+- pandocfilters=1.4.1=py35_0
+- parsel=1.2.0=py35_0
+- path.py=10.3.1=py35_0
+- patsy=0.4.1=py35_0
+- pep8=1.7.0=py35_0
+- pickleshare=0.7.4=py35_0
+- pillow=4.1.1=py35_0
+- pip=9.0.1=py35_1
+- plac=0.9.6=py35_0
+- plotly=1.12.9=py35_0
+- prompt_toolkit=1.0.14=py35_0
+- psutil=5.2.2=py35_0
+- py-xgboost=0.60=py35np112h24854b6_0
+- pyasn1=0.2.3=py35_0
+- pyasn1-modules=0.0.8=py35_0
+- pycparser=2.17=py35_0
+- pydispatcher=2.0.5=py35_0
+- pyflakes=1.5.0=py35_0
+- pygments=2.2.0=py35_0
+- pylint=1.6.4=py35_1
+- pyopenssl=17.0.0=py35_0
+- pyparsing=2.1.4=py35_0
+- pyqt=5.6.0=py35_2
+- python=3.5.2=0
+- python-dateutil=2.6.0=py35_0
+- pytz=2017.2=py35_0
+- pywin32=220=py35_2
+- pyzmq=16.0.2=py35_0
+- qt=5.6.2=vc14_3
+- qtawesome=0.4.4=py35_0
+- qtconsole=4.3.0=py35_0
+- qtpy=1.2.1=py35_0
+- quandl=3.1.0=py35_0
+- queuelib=1.4.2=py35_0
+- requests=2.13.0=py35_0
+- requests-file=1.4.1=py35_0
+- requests-ftp=0.3.1=py35_0
+- rope=0.9.4=py35_1
+- scikit-learn=0.18.1=np112py35_1
+- scipy=0.19.0=np112py35_0
+- scrapy=1.3.3=py35_0
+- seaborn=0.7.1=py35_0
+- service_identity=16.0.0=py35_0
+- setuptools=27.2.0=py35_1
+- simplegeneric=0.8.1=py35_1
+- sip=4.18=py35_0
+- six=1.10.0=py35_0
+- snowballstemmer=1.2.1=py35_0
+- sphinx=1.6.2=py35_0
+- sphinxcontrib=1.0=py35_0
+- sphinxcontrib-websupport=1.0.1=py35_0
+- spyder=3.1.4=py35_0
+- statsmodels=0.8.0=np112py35_0
+- testpath=0.3=py35_0
+- tk=8.5.18=vc14_0
+- tornado=4.5.1=py35_0
+- traitlets=4.3.2=py35_0
+- twisted=17.5.0=py35_0
+- ujson=1.35=py35_0
+- vs2015_runtime=14.0.25123=0
+- w3lib=1.17.0=py35_0
+- wcwidth=0.1.7=py35_0
+- wheel=0.29.0=py35_0
+- win_unicode_console=0.5=py35_0
+- wrapt=1.10.10=py35_0
+- zlib=1.2.8=vc14_3
+- zope=1.0=py35_0
+- zope.interface=4.4.2=py35_0
+- imbalanced-learn=0.2.1=py35_0
+- pip:
+  - climate==0.4.6
+  - cython==0.26
+  - downhill==0.3.2
+  - fbprophet==0.1.1
+  - findspark==1.1.0
+  - future==0.16.0
+  - graphviz==0.8
+  - ipython-genutils==0.2.0
+  - jupyter-client==5.0.1
+  - jupyter-core==4.3.0
+  - keras==2.0.3
+  - lightgbm==2.0.5
+  - mysqlclient==1.3.10
+  - networkx==1.11
+  - oauthlib==2.0.2
+  - progressbar2==3.34.2
+  - prompt-toolkit==1.0.14
+  - protobuf==3.2.0
+  - pybrain==0.3
+  - pygam==0.2.17
+  - pystan==2.16.0.0
+  - python-utils==2.2.0
+  - pyyaml==3.12
+  - requests-oauthlib==0.8.0
+  - rope-py3k==0.9.4.post1
+  - selenium==3.4.3
+  - service-identity==16.0.0
+  - sexmachine==0.1.1
+  - simplejson==3.11.1
+  - smart-open==1.5.3
+  - tensorflow-gpu==1.1.0
+  - theano==0.9.0
+  - tweepy==3.5.0
+  - twython==3.5.0
+  - vadersentiment==2.5
+  - vincent==0.4.4
+  - virtualenv==15.1.0
+  - werkzeug==0.12.1
+  - win-unicode-console==0.5
+prefix: F:\Anaconda3\envs\tensorflow-gpu
+

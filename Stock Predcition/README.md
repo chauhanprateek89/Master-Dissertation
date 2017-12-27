@@ -1,0 +1,3 @@
+StockPred_SnP.ipynb doesn't need any csv files to execute. stock_prophet.ipynb need SP500.csv file and Stock_pred_twitter.ipynb needs merge_rel_final.csv which was generated 
+by running twitter_analytics.py for over a period of 20 days and then the data was cleaned to generate the csv file. The second file, NSE_RELIANCE.csv has been downloaded
+from NSE website. Rest all the files needed are generated via the python notebook.

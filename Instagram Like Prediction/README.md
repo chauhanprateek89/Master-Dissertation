@@ -1,0 +1,2 @@
+The script to generate dataset.csv is given in dataset_generator.py but the profiles are too heavy, therefore the generated csv files are
+supplied. Use this csv file in Insta_liker.ipynb notebook. The second csv file needed for prediction will be generated via this notebook.
