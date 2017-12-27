@@ -14,3 +14,5 @@ It's .yml file is different and is supplied within the folder.
 To create the environment run:  
 
 #### conda env create -f environment.yml
+
+The entire report can be viewed in the pdf file.  
